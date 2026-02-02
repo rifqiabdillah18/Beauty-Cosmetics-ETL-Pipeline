@@ -11,9 +11,4 @@ Proyek ini mengotomatisasi pengolahan dataset kosmetik (15.000+ baris) menggunak
   * **Quality Assessment:** Best Seller, Average, atau Underperform berdasarkan rating.
 * **Data Delivery:** Ekspor hasil akhir ke Excel (Laporan Kosmetik 2.xlsx).
 
-## 📊 Visual Workflow
-![Workflow Screenshot](NAMA_FILE_GAMBAR_KAMU.png)
 
-## 📁 Repository Contents
-* `Project Pertama.zip`: File mentah workflow KNIME.
-* `Laporan Kosmetik 2.xlsx`: Hasil akhir dataset lengkap.
